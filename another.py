@@ -545,7 +545,7 @@ class AdvancedEditor:
         if td:
             td.text.focus_set()
 
-    # ---------- Autosave ----------
+    # ---------- Autosave --------
     def _autosave_all_tabs(self):
         for td in list(self.tabs.values()):
             try:
