@@ -1,3 +1,3 @@
 # Texter
 
-- This is the notpad I create when my system's notepad failed to work.
+- This is a notpad I created when my system's notepad failed to work.
